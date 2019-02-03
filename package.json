@@ -1,7 +1,7 @@
 {
   "name": "google-login",
   "version": "1.0.0",
-  "description": "",
+  "description": "Goole login api with passport.js on node server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,6 +14,7 @@
     "express": "^4.16.4",
     "heroku": "^7.19.4",
     "mongoose": "^5.4.8",
+    "nodemon": "^1.18.9",
     "passport": "^0.4.0",
     "passport-google-oauth20": "^1.0.0"
   }
